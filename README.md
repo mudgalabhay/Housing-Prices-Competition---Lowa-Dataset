@@ -1,4 +1,4 @@
-# Housing-Prices-Competition---Lowa-Dataset
+# Housing-Prices-Competition--Lowa-Dataset
 Predict 'Sales Price' of houses in lowa
 
 # Dataset
